@@ -13,7 +13,7 @@ Welcome to my Cybersecurity Learning Journey repository! This repo documents my 
 
 ## About-Me
 
-Hi, I'm [Your Name]! I'm a passionate cybersecurity enthusiast and professional with a background in [HSE engineering/web development/cybersecurity analysis]. This repo serves as my learning journal and a resource for others interested in cybersecurity.
+Hi, I'm el Mokdad! I'm a passionate cybersecurity enthusiast and professional with a background in HSE engineering/web development/cybersecurity analysis. This repo serves as my learning journal and a resource for others interested in cybersecurity.
 
 ## Purpose  
 
@@ -51,8 +51,7 @@ Hi, I'm [Your Name]! I'm a passionate cybersecurity enthusiast and professional 
 
 | Date       | Milestone                   | Details                                     |
 | ---------- | --------------------------- | ------------------------------------------- |
-| YYYY-MM-DD | Started learning Kali Linux | Set up the environment and explored basics. |
-| YYYY-MM-DD | Mastered Nmap               | Scanned networks and analyzed outputs.      |
+| 2024-07-00 | Started learning Kali Linux | Set up the environment and explored basics.On Labex|
 
 ## Contributing  
 
