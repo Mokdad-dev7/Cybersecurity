@@ -118,3 +118,4 @@ This document provides detailed assignments for practical learning, based on cyb
 ---
 
 Progressively update your portfolio with completed assignments and milestones!
+[AssignmentsProgress.md](AssignmentsProgress.md)
