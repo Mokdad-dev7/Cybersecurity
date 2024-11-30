@@ -112,3 +112,4 @@
 3. **Reflect**: Regularly review your progress and adapt your learning as needed.  
 
 Good luck on your journey to becoming a proficient cybersecurity analyst! 🚀
+[Assignments_Guide.md](Assignments_Guide.md)
